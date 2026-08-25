@@ -62,7 +62,8 @@ STELLIVE 소속 아오쿠모 린(Aokumo Rin)님의 목소리를 활용한 팬메
 
 ### 1. 접속 방법
 배포된 링크에 접속하여 이용할 수 있습니다.
-- **Demo Link**: [https://sakabam-player.chucode.com](https://sakabam-player.chucode.com)
+- [https://sakabam-player.chucode.com](https://sakabam-player.chucode.com)
+- [https://sakabam-player.pages.dev/](https://sakabam-player.pages.dev/)
 
 ### 2. 조작 방법
 - **PC 환경**: 캐릭터의 배(건반) 부분을 마우스로 클릭하거나, 클릭한 상태로 좌우로 드래그하여 슬라이딩 연주를 할 수 있습니다.
