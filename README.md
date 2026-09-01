@@ -73,7 +73,9 @@ STELLIVE 소속 아오쿠모 린(Aokumo Rin)님의 목소리를 활용한 팬메
 
 ## 저작권 및 출처 (Copyright & Attribution)
 
-이 프로젝트는 관련 2차창작 가이드라인을 준수하여 제작된 팬메이드 2차창작 프로젝트입니다.
+이 프로젝트는 스텔라이브의 2차 창작 가이드라인을 참고하여 제작된 비공식 팬메이드 프로젝트입니다.
+
+프로젝트 공개 전 최신 공식 가이드라인을 확인하고 이에 맞게 운영하는 것을 원칙으로 합니다.
 
 프로젝트에 사용된 `.wav` 음원은 **STELLIVE 소속 Aokumo Rin**과 관련된 음원을 기반으로 제작되었습니다.
 
@@ -86,7 +88,7 @@ STELLIVE 소속 아오쿠모 린(Aokumo Rin)님의 목소리를 활용한 팬메
 
 ---
 
-This project is a fan-made derivative work created in accordance with the applicable fan-work guidelines.
+This project is an unofficial fan-made project created with reference to the applicable fan-work guidelines.
 
 The `.wav` audio assets used in this project are based on audio associated with **Rin Aokumo**, a talent affiliated with **STELLIVE**.
 
