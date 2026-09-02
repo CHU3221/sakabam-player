@@ -1,5 +1,9 @@
 # Sakabam-Player
 
+⚠️ 비공식 팬메이드 프로젝트
+Sakabam-Player is an unofficial fan-made project and is not affiliated with, endorsed by, or sponsored by STELLIVE or Aokumo Rin.
+
+
 웹 브라우저에서 바로 연주할 수 있는 사카밤바스피스 형태의 스타일로폰(건반 악기) 웹 애플리케이션입니다.  
 STELLIVE 소속 아오쿠모 린(Aokumo Rin)님의 목소리를 활용한 팬메이드 2차 창작 프로젝트입니다.
 
